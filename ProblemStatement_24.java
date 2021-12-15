@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Sample
+//1
 public class ProblemStatement_24 {
 
 	public static void main(String[] args) {
